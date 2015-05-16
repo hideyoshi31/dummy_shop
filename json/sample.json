@@ -1,0 +1,17 @@
+[
+    {
+        "name": "技評太郎",
+        "age" : 26,
+        "skills":["PHP" , "JavaScript"]
+    },
+    {
+        "name": "長谷川広武",
+        "age":25,
+        "skills":["HTML" , "CSS"]
+    },
+    {
+        "name": "徳田和規",
+        "age":26,
+        "skills":["JavaScript" , "jQuery"]
+    }
+]

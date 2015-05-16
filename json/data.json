@@ -1,0 +1,15 @@
+[{
+"id":1,
+"name":"toshiya",
+"star":4,
+"comment":"nice book!!",
+"url":"http://ec2-52-68-154-199.ap-northeast-1.compute.amazonaws.com/users/1.json"
+},
+
+{
+"id":2,
+"name":"inoue",
+"star":5,
+"comment":"Fantastic!!",
+"url":"http://ec2-52-68-154-199.ap-northeast-1.compute.amazonaws.com/users/2.json"
+}]
