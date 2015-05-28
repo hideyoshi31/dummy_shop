@@ -30,7 +30,7 @@ define('DB_USER', 'hideyoshi31');
 define('DB_PASSWORD', 'toshiya5955');
 
 /** MySQL のホスト名 */
-define('DB_HOST', 'localhost');
+define('DB_HOST', 'dummy_shop.localhost');
 
 /** データベースのテーブルを作成する際のデータベースの文字セット */
 define('DB_CHARSET', 'utf8');
